@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amirtha12S/VarshiniPortfolio.git/static/css/main.f543b0e1.css",
+    "main.js": "/Amirtha12S/VarshiniPortfolio.git/static/js/main.fa0d7cf2.js",
+    "static/js/453.1407b060.chunk.js": "/Amirtha12S/VarshiniPortfolio.git/static/js/453.1407b060.chunk.js",
+    "index.html": "/Amirtha12S/VarshiniPortfolio.git/index.html",
+    "main.f543b0e1.css.map": "/Amirtha12S/VarshiniPortfolio.git/static/css/main.f543b0e1.css.map",
+    "main.fa0d7cf2.js.map": "/Amirtha12S/VarshiniPortfolio.git/static/js/main.fa0d7cf2.js.map",
+    "453.1407b060.chunk.js.map": "/Amirtha12S/VarshiniPortfolio.git/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f543b0e1.css",
+    "static/js/main.fa0d7cf2.js"
+  ]
+}

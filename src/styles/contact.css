@@ -1,0 +1,50 @@
+/* Contact Page Styles */
+.contact-container {
+    min-height: 100vh;
+    background-color: #111827;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+  }
+  
+  .contact-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .contact-form {
+    background-color: #1f2937;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 500px;
+  }
+  
+  .contact-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #374151;
+    color: white;
+    border: none;
+  }
+  
+  .contact-button {
+    width: 100%;
+    background-color: #3b82f6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .contact-button:hover {
+    background-color: #2563eb;
+  }
+  

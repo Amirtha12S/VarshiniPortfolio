@@ -1,0 +1,48 @@
+/* Certifications & Achievements Page Styles */
+.certifications-container {
+    min-height: 100vh;
+    background-color: #111827;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+  }
+  
+  .certifications-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .certifications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    width: 80%;
+    max-width: 1200px;
+  }
+  
+  .certification-card {
+    background-color: #1f2937;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .certification-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .certification-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .certification-issuer {
+    font-size: 1rem;
+    color: #d1d5db;
+  }
+  
